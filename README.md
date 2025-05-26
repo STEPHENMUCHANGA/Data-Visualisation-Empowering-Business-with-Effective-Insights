@@ -28,9 +28,27 @@
 - Conditional formular logics were applied to hightlight and identify these data criteria.
 - Data was transformed to get rid of bad data points.
 
+##### Raw data
   ![Online retail- Raw data](https://github.com/user-attachments/assets/d8242fd0-0fd4-4ca0-9b5d-12d3cace9760)
-
+ 
+ ##### Cleaned data
   ![Online retail- Cleaned data](https://github.com/user-attachments/assets/cbd9b007-f06c-4268-8a81-a6ff9b516756)
+
+### Creating Visuals
+- Visuals were created to provide the basis that answers the fundamental questions raised by both CEO and CMO
+
+##### Revenue by Month
+![Revenue by Month](https://github.com/user-attachments/assets/2b4a089a-90df-42e5-ac96-301b493547d8)
+
+ ##### Quantity against Revenue by Country
+![Quantity against Revenue by Country](https://github.com/user-attachments/assets/44ae642f-4032-4891-bc0a-6e5a54101fb1)
+
+##### Sum of Revenue by Customer
+![Sum of Revenue by Customers](https://github.com/user-attachments/assets/5c89874b-d3cb-4fde-ad03-6bbeba0236eb)
+
+##### Sum of Quantity by Country
+![Sum of Quantity by Country](https://github.com/user-attachments/assets/f8b62c19-c7ff-4974-bf1f-bb0487ec51b1)
+
 
 ### Data Analysis
 
