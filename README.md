@@ -2,6 +2,16 @@
 
 ### Table of Contents 
 
+[Project Background](#project-background)
+
+[Research Questions](#research-questions)
+
+[Data Preparation](#data-preparation)
+
+[Data Analysis and Findings](#data-analysis-and-findings)
+
+[Conclusion and Recommendations](#conclusion-and-recommendations)
+
 ### Project Background
 
 #### An online store has been performing well and the management, both CEO and CMO, want to examine major contributing factors to the revenue to strategically plan for coming finacial year.
@@ -79,7 +89,7 @@
 - The low or no demand regions of America, Africa and Asia need a new strategy from the company to boost demands in these regions.
 
 
-### Conclusion and Recommendation 
+### Conclusion and Recommendations 
 
 - The CEO and CMO should pay attention to the insights provided to ensure better decisions are made.
 - Necessary and appropriate strategies should be adopted to maximize revenue in the high-demand regions, and restrategize in the low-demand regions to realize the potential in those regions.
